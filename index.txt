@@ -1,0 +1,6 @@
+chrome dino automate using 
+
+python3
+opencv
+numpy
+pillow
